@@ -53,3 +53,5 @@ In Gone Restaurant, we offer many delicious foods, salads, cold or hot drinks,De
 ## [Restaurant](https://github.com/Mostafa-Albelbeisi/my-restaurant)
 
 **Thank you**
+
+![Wireframe image](/photo/Screenshot%202022-07-27%20154131.png)
