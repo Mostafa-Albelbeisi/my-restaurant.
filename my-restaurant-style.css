@@ -24,7 +24,7 @@ body{
 }
 #h2wel{
     text-align: center;
-    color:tomato;
+    color:rgb(204, 57, 32);
 }
 #img2{
     display: block;
@@ -56,5 +56,9 @@ body{
     inline-size: auto;
 }
 #p3{
-    inline-size: auto;
+    color:#232323;
+    font-size:11px;
+    margin: 18px auto 0 auto;
+    position: relative;
+    text-align: center;
 }
